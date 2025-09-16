@@ -144,6 +144,13 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
+### Operating Systems
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
 </div>
 
 ---

@@ -182,7 +182,7 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamPlaysKeys&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamPlaysKeys)](https://git.io/streak-stats)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=60&lines=Innovative+Solutions+Engineer;Multi-Cloud+Consultant;PowerShell+Enthusiast;Community+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=600&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=60&lines=Innovative+Consultant;Multi-Cloud+Engineer;PowerShell+Enthusiast;Community+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-Just a **Neuro-Spicy** technologist who's passionate about encouraging others in security and innovation! I'm currently working as an **Innovative Solutions Engineer** at **Red Hat** based in **Raleigh, NC**.
+I am a **Neuro-Spicy** technologist who's passionate about encouraging others in security and innovation! I'm currently working as an **Associate Consultant** at **Red Hat**, based in **Raleigh, NC**.
 
-I believe in the power of connection and collaboration to drive success – whether I'm architecting cloud solutions, moderating the r/Nerdio community, or teaching West Coast Swing on the social dance floor. My mission is to deliver exceptional technical solutions while building meaningful relationships and fostering strong communities.
+I believe in the power of connection and collaboration to drive success – whether I'm architecting cloud solutions, moderating the r/Nerdio community, or teaching West Coast Swing on the dance floor. My mission is to deliver exceptional solutions while building meaningful relationships and fostering strong communities.
 
 ---
 
@@ -22,12 +22,10 @@ I'm a results-driven consultant specializing in:
 
 - **🌩️ Multi-Cloud Architecture** - Azure, AWS, GCP environments
 - **🔧 ServiceNow Solutions** - Problem & incident management workflows  
+- **🎩 Red Hat Enterprise Linux Deployments** - Enterprise open source linux implementation
 - **⚡ PowerShell Automation** - Custom scripts and GUI applications
 - **🖥️ Virtual Desktop Solutions** - Azure Virtual Desktop & Nerdio Manager
-- **🎯 Customer Success** - Technical communication and relationship building
 - **📊 Process Optimization** - Streamlining operations and efficiency improvements
-
-With 6+ years of experience, I focus on translating complex technical concepts into actionable business solutions that drive real value for organizations of all sizes.
 
 ---
 
@@ -130,15 +128,19 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ZSH](https://img.shields.io/badge/-ZSH-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
 
 ### Virtualization & Containers
 ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ProxMox](https://img.shields.io/badge/-ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### Enterprise Tools
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Microsoft Intune](https://img.shields.io/badge/-Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
@@ -149,7 +151,7 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 ## 🌱 Currently Exploring
 
 - **🤖 AI Integration** - Incorporating LLMs into automation workflows
-- **🦀 Rust Development** - Learning systems programming with Rust
+- **🐧 RHEL Implementation** - Red Hat Enterprise Linux deployment and management
 - **🔒 Zero Trust Architecture** - Advanced security frameworks
 - **☁️ OpenShift** - Red Hat's enterprise Kubernetes platform
 
@@ -198,6 +200,7 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 ### 🤝 Open for Collaboration!
 
 I'm always excited to work on interesting projects, especially those involving:
+- **Multifactor Authentication and Zero-Trust Planning**
 - **Cloud architecture and migration projects**
 - **PowerShell automation and tooling**
 - **Community building and technical education**

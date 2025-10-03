@@ -84,10 +84,10 @@ A blazing fast terminal file manager written in Rust. Combines vim-like keybindi
 
 ## 🎯 Featured Projects
 
-### 🤖 [AI-Prototyping-Tool](https://github.com/SamPlaysKeys/AI-Prototyping-Tool)
-A comprehensive AI prototyping tool that transforms initial ideas into structured, actionable development plans using local AI models through LM Studio. Generate problem statements, user personas, use cases, technical architectures, and implementation roadmaps with visual Mermaid documentation.
+### 🔤 [hack-fonts](https://github.com/SamPlaysKeys/hack-fonts)
+An installation-focused collection of the Hack font family - a typeface specifically designed for source code. This repository provides easy access to the popular Hack fonts, known for their excellent readability and distinctive character shapes that make coding more pleasant and reduce eye strain.
 
-**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6B6B?style=flat) ![Mermaid](https://img.shields.io/badge/-Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white)
+**Tech Stack:** ![Typography](https://img.shields.io/badge/-Typography-FF6B6B?style=flat) ![Fonts](https://img.shields.io/badge/-Fonts-4CAF50?style=flat) ![Open Source](https://img.shields.io/badge/-Open_Source-FFA500?style=flat)
 
 ### 📊 [Microsoft-Cloud-Group-Analyzer](https://github.com/SamPlaysKeys/Microsoft-Cloud-Group-Analyzer)
 For Microsoft Cloud admins who struggle to keep track of where Entra ID groups are used. This opensource script provides instant insights into what services, policies, and configurations a given group or user is scoped to.

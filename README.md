@@ -84,7 +84,7 @@ A blazing fast terminal file manager written in Rust. Combines vim-like keybindi
 
 ## 🎯 Featured Projects
 
-### 🔤 [hack-fonts](https://github.com/SamPlaysKeys/hack-fonts)
+### 🔤 [Hack-Fonts Installation Package](https://github.com/SamPlaysKeys/hack-fonts)
 An installation-focused collection of the Hack font family - a typeface specifically designed for source code. This repository provides easy access to the popular Hack fonts, known for their excellent readability and distinctive character shapes that make coding more pleasant and reduce eye strain.
 
 **Tech Stack:** ![Typography](https://img.shields.io/badge/-Typography-FF6B6B?style=flat) ![Fonts](https://img.shields.io/badge/-Fonts-4CAF50?style=flat) ![Open Source](https://img.shields.io/badge/-Open_Source-FFA500?style=flat)

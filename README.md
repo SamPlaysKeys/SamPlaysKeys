@@ -37,7 +37,7 @@ Here are the tools that power my daily workflow and boost my productivity:
 <tr>
 <td width="33%" align="center">
 
-### 🚀 [Warp.dev](https://warp.dev)
+### 🚀 [Warp.dev](https://app.warp.dev/referral/GVGXKK)
 **The AI-Powered Terminal**
 
 The modern terminal that feels like an IDE. With AI command suggestions, collaborative features, and lightning-fast performance, Warp has revolutionized how I interact with the command line.

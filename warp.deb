@@ -1,0 +1,217 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Warp is an AI agent platform that lets you run multiple agents in parallel to complete any development task."/><meta name="author" content="Warp"/><meta property="og:type" content="website"/><meta property="og:url" content="https://app.warp.dev/"/><meta property="og:title" content="Warp: The Agentic Development Environment"/><meta property="og:description" content="Warp is an AI agent platform that lets you run multiple agents in parallel to complete any development task."/><meta property="og:image" content="/og-image.avif"/><meta property="og:site_name" content="Warp"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Warp: The Agentic Development Environment"/><meta name="twitter:description" content="Warp is an AI agent platform that lets you run multiple agents in parallel to complete any development task."/><meta name="twitter:image" content="/og-image.avif"/><meta name="twitter:title" content="Warp - AI Agent Platform"/><meta name="twitter:description" content="Warp is an AI agent platform that lets you run multiple agents in parallel to complete any development task."/><meta name="twitter:image" content="/og-image.avif"/><link rel="apple-touch-icon" href="/favicon.ico"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"/><script src="https://www.recaptcha.net/recaptcha/enterprise.js"></script><script>(function () {
+        'use strict';
+        window.RudderSnippetVersion = '3.0.14';
+        var identifier = 'rudderanalytics';
+        if (!window[identifier]) {
+          window[identifier] = [];
+        }
+        var rudderanalytics = window[identifier];
+        if (Array.isArray(rudderanalytics)) {
+          if (
+            rudderanalytics.snippetExecuted === true &&
+            window.console &&
+            console.error
+          ) {
+            console.error(
+              'RudderStack JavaScript SDK snippet included more than once.'
+            );
+          } else {
+            rudderanalytics.snippetExecuted = true;
+            window.rudderAnalyticsBuildType = 'legacy';
+            
+            var sdkBaseUrl = 'https://app.warp.dev/_rs/cdn/v3';
+            var sdkName = 'rsa.min.js';
+            var scriptLoadingMode = 'async';
+            var methods = [
+              'setDefaultInstanceKey',
+              'load',
+              'ready',
+              'page',
+              'track',
+              'identify',
+              'alias',
+              'group',
+              'reset',
+              'setAnonymousId',
+              'startSession',
+              'endSession',
+              'consent',
+            ];
+            for (var i = 0; i < methods.length; i++) {
+              var method = methods[i];
+              rudderanalytics[method] = (function (methodName) {
+                return function () {
+                  if (Array.isArray(window[identifier])) {
+                    rudderanalytics.push(
+                      [methodName].concat(Array.prototype.slice.call(arguments))
+                    );
+                  } else {
+                    var _methodName;
+                    (_methodName = window[identifier][methodName]) === null ||
+                      _methodName === void 0 ||
+                      _methodName.apply(window[identifier], arguments);
+                  }
+                };
+              })(method);
+            }
+            try {
+              new Function('return import("")');
+              window.rudderAnalyticsBuildType = 'modern';
+            } catch (e) {}
+            var head =
+              document.head || document.getElementsByTagName('head')[0];
+            var body =
+              document.body || document.getElementsByTagName('body')[0];
+            window.rudderAnalyticsAddScript = function (
+              url,
+              extraAttributeKey,
+              extraAttributeVal
+            ) {
+              var scriptTag = document.createElement('script');
+              scriptTag.src = url;
+              scriptTag.setAttribute('data-loader', 'RS_JS_SDK');
+              if (extraAttributeKey && extraAttributeVal) {
+                scriptTag.setAttribute(extraAttributeKey, extraAttributeVal);
+              }
+              if (scriptLoadingMode === 'async') {
+                scriptTag.async = true;
+              } else if (scriptLoadingMode === 'defer') {
+                scriptTag.defer = true;
+              }
+              if (head) {
+                head.insertBefore(scriptTag, head.firstChild);
+              } else {
+                body.insertBefore(scriptTag, body.firstChild);
+              }
+            };
+            window.rudderAnalyticsMount = function () {
+              if (typeof globalThis === 'undefined') {
+                Object.defineProperty(
+                  Object.prototype,
+                  '__globalThis_magic__',
+                  {
+                    get: function get() {
+                      return this;
+                    },
+                    configurable: true,
+                  }
+                );
+                __globalThis_magic__.globalThis = __globalThis_magic__;
+                delete Object.prototype.__globalThis_magic__;
+              }
+              window.rudderAnalyticsAddScript(
+                ''
+                  .concat(sdkBaseUrl, '/')
+                  .concat(window.rudderAnalyticsBuildType, '/')
+                  .concat(sdkName),
+                'data-rsa-write-key',
+                '2j4keKzPOpcfLaNsHiNzmlHaThK'
+              );
+            };
+            if (
+              typeof Promise === 'undefined' ||
+              typeof globalThis === 'undefined'
+            ) {
+              window.rudderAnalyticsAddScript(
+                'https://polyfill-fastly.io/v3/polyfill.min.js?version=3.111.0&features=Symbol%2CPromise&callback=rudderAnalyticsMount'
+              );
+            } else {
+              window.rudderAnalyticsMount();
+            }
+            
+            var loadOptions = {
+              anonymousIdOptions: {
+                autoCapture: {
+                  enabled: true,
+                  source: 'segment',
+                },
+              },
+            };
+            rudderanalytics.load(
+              '2jfO1dc5oYR9MQnInafcKZ70EoB',
+              'https://app.warp.dev/_rs/api',
+              loadOptions
+            );
+            rudderanalytics.page();
+          }
+        }
+      })();</script><script id="hs-script-loader" async defer="defer" src="//js.hs-scripts.com/41605963.js"></script><script>
+      var goAppUrl = '\/assets\/client\/wasm\/stable\/v0.2025.12.17.17.17.stable_02\/';
+      var goAppVersion = 'v0.2025.12.17.17.17.stable_02';
+      var goVerisoulEnv = 'prod';
+      var goVerisoulProjectId = '27fcb93a-7693-486d-b969-a9d96f799f91';
+
+      var openBraces = '\x7b\x7b';
+      
+      window.warp_app_base_url =
+        goAppUrl && !goAppUrl.startsWith(openBraces)
+          ? goAppUrl
+          : '/assets/client/wasm/';
+      window.warp_app_version =
+        goAppVersion && !goAppVersion.startsWith(openBraces)
+          ? goAppVersion
+          : 'localdev';
+      window.verisoul_env =
+        goVerisoulEnv && !goVerisoulEnv.startsWith(openBraces)
+          ? goVerisoulEnv
+          : 'prod';
+      window.verisoul_project_id =
+        goVerisoulProjectId && !goVerisoulProjectId.startsWith(openBraces)
+          ? goVerisoulProjectId
+          : '27fcb93a-7693-486d-b969-a9d96f799f91';
+
+      if (
+        window.verisoul_env &&
+        window.verisoul_project_id &&
+        !window.verisoul_env.startsWith('%VITE_') &&
+        !window.verisoul_env.startsWith(openBraces) &&
+        !window.verisoul_project_id.startsWith('%VITE_') &&
+        !window.verisoul_project_id.startsWith(openBraces)
+      ) {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://v.warp.dev/' + window.verisoul_env + '/bundle.js';
+        script.setAttribute('verisoul-project-id', window.verisoul_project_id);
+        document.head.appendChild(script);
+      }</script><script>!(function (e) {
+        if (e.Verisoul) return;
+        const r = [],
+          t = {},
+          o = new Proxy(t, {
+            get: (e, o) =>
+              o in t
+                ? t[o]
+                : (...e) => new Promise((t, n) => r.push([o, e, t, n])),
+            set: (e, r, o) => ((t[r] = o), !0),
+          });
+        e.Verisoul = o;
+        const n = () => {
+            Object.keys(t).length &&
+              r.splice(0).forEach(([e, r, o, n]) => {
+                try {
+                  Promise.resolve(t[e](...r)).then(o, n);
+                } catch (e) {
+                  n(e);
+                }
+              });
+          },
+          c = document.querySelector('script[verisoul-project-id]'),
+          s = () =>
+            r
+              .splice(0)
+              .forEach(([, , , e]) =>
+                e(new Error('Failed to load Verisoul SDK'))
+              );
+        if (!c) return void s();
+        c.addEventListener('load', n, { once: !0 }),
+          c.addEventListener(
+            'error',
+            () => {
+              clearInterval(i), s();
+            },
+            { once: !0 }
+          );
+        const i = setInterval(() => {
+          Object.keys(t).length && (clearInterval(i), n());
+        }, 40);
+      })(window);</script><title>Warp</title><script type="module" crossorigin src="/static/js/index.js"></script><link rel="stylesheet" crossorigin href="/static/css/index.css"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>

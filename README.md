@@ -35,24 +35,16 @@ Here are the tools that power my daily workflow and boost my productivity:
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33" align="center">
 
-### 🚀 [Warp.dev](https://app.warp.dev/referral/GVGXKK)
-**The AI-Powered Terminal**
+### ⌨️ [NeoVim](https://neovim.io/)
+**Hyperextensible Text Editor**
 
-The modern terminal that feels like an IDE. **However,** for my use case, I disable the included AI features. While it is a great tool for AI-driven development, I prefer to use it for its original purpose: as an intuitive modern terminal, written in Rust.
+The modern evolution of Vim, built for extensibility and usability. My configuration transforms it into a full-featured IDE with LSP support, fuzzy finding, and custom keybindings tailored to my workflow.
 
-*Perfect for: Complex workflows, debugging, and remote sessions using the "warpified" SSH*
+*Perfect for: Code editing, configuration management, and terminal-based development*
 
-</td>
-<td width="33%" align="center">
-
-### 🧠 [Obsidian](https://obsidian.md)
-**Knowledge Management**
-
-My second brain for connecting ideas, managing projects, and building comprehensive documentation. The graph view and bidirectional linking make knowledge discovery effortless.
-
-*Perfect for: Technical documentation, project planning, and learning*
+🔧 [View my NeoVim config](https://github.com/SamPlaysKeys/dotfiles)
 
 </td>
 <td width="33%" align="center">
@@ -66,11 +58,43 @@ A blazing fast terminal file manager written in Rust. Combines vim-like keybindi
 
 </td>
 </tr>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 [Obsidian](https://obsidian.md)
+**Knowledge Management**
+
+My second brain for connecting ideas, managing projects, and building comprehensive documentation. The graph view and bidirectional linking make knowledge discovery effortless.
+
+*Perfect for: Technical documentation, project planning, and learning*
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 [Warp.dev](https://app.warp.dev/referral/GVGXKK)
+**The AI-Powered Terminal**
+
+The modern terminal that feels like an IDE. **However,** for my use case, I disable the included AI features. While it is a great tool for AI-driven development, I prefer to use it for its original purpose: as an intuitive modern terminal, written in Rust.
+
+*Perfect for: Complex workflows, debugging, and remote sessions using the "warpified" SSH*
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## 🎯 Featured Projects
+
+### 🗺️ [RepoMap](https://github.com/SamPlaysKeys/Repository-Mapper)
+A Python CLI and library that scans repositories for cross-file references in configuration files (YAML, JSON, TOML), building a dependency graph that can be exported as ASCII trees, Mermaid flowcharts, or machine-readable JSON. Perfect for understanding complex project structures and visualizing configuration dependencies.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-4D4D4D?style=flat) ![Mermaid](https://img.shields.io/badge/-Mermaid-FF3670?style=flat)
+
+### 📄 [Markdown-Code-Extractor](https://github.com/SamPlaysKeys/Markdown-Code-Extractor)
+A Python utility to extract code blocks from Markdown files based on trigger strings and export them to YAML format. Supports batch processing, multiple triggers, and concatenation of extracted blocks into multi-document YAML files.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-4D4D4D?style=flat) ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat)
 
 ### 🔤 [Hack-Fonts Installation Package](https://github.com/SamPlaysKeys/hack-fonts)
 An installation-focused collection of the Hack font family - a typeface specifically designed for source code. This repository provides easy access to the popular Hack fonts, known for their excellent readability and distinctive character shapes that make coding more pleasant and reduce eye strain.
@@ -82,15 +106,10 @@ An Obsidian plugin for creating GitLab issues from notes. Streamline your workfl
 
 **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
-### 💻 [Code-for-MSPs](https://github.com/SamPlaysKeys/Code-for-MSPs)
-A collection of PowerShell scripts I created for use as a managed services provider. Streamline IT operations with automated scripts for common MSP tasks and client management.
+---
 
-**Tech Stack:** ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![MSP](https://img.shields.io/badge/-MSP-0066CC?style=flat) ![Automation](https://img.shields.io/badge/-Automation-28A745?style=flat)
-
-### 🔧 [PowerShell-Onboarder](https://github.com/SamPlaysKeys/Powershell-Onboarder)
-My PowerShell GUI program for onboarding new computers. Features an intuitive interface for automating the setup and configuration of new workstations with standardized settings and software installations.
-
-**Tech Stack:** ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![GUI](https://img.shields.io/badge/-GUI-FF9900?style=flat) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+Looking for my "Scan to email" walkthrough for Google Cloud/Gmail?
+While it may not be the most secure method, it's still a really common use case. My walkthrough is available publically on Reddit: [Yes, you CAN USE Gmail with a scanner!!](https://www.reddit.com/r/msp/comments/v77qy7/yes_you_can_use_gmail_with_a_scanner_heres_how_to/) 
 
 ---
 

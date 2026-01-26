@@ -153,18 +153,6 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamPlaysKeys&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamPlaysKeys&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" />
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">

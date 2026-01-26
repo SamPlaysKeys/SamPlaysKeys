@@ -40,13 +40,9 @@ Here are the tools that power my daily workflow and boost my productivity:
 ### 🚀 [Warp.dev](https://app.warp.dev/referral/GVGXKK)
 **The AI-Powered Terminal**
 
-The modern terminal that feels like an IDE. With AI command suggestions, collaborative features, and lightning-fast performance, Warp has revolutionized how I interact with the command line.
+The modern terminal that feels like an IDE. **However,** for my use case, I disable the included AI features. While it is a great tool for AI-driven development, I prefer to use it for its original purpose: as an intuitive modern terminal, written in Rust.
 
-*Perfect for: Complex workflows, debugging, and pair programming sessions*
-
-```
-[Warp Terminal Placeholder - 800x400px]
-```
+*Perfect for: Complex workflows, debugging, and remote sessions using the "warpified" SSH*
 
 </td>
 <td width="33%" align="center">
@@ -58,10 +54,6 @@ My second brain for connecting ideas, managing projects, and building comprehens
 
 *Perfect for: Technical documentation, project planning, and learning*
 
-```
-[Obsidian Placeholder - 800x400px]
-```
-
 </td>
 <td width="33%" align="center">
 
@@ -71,10 +63,6 @@ My second brain for connecting ideas, managing projects, and building comprehens
 A blazing fast terminal file manager written in Rust. Combines vim-like keybindings with modern features like image previews and async operations.
 
 *Perfect for: Large directory navigation, file operations, and terminal workflows*
-
-```
-[Yazi Terminal Placeholder - 800x400px]
-```
 
 </td>
 </tr>
@@ -88,11 +76,6 @@ A blazing fast terminal file manager written in Rust. Combines vim-like keybindi
 An installation-focused collection of the Hack font family - a typeface specifically designed for source code. This repository provides easy access to the popular Hack fonts, known for their excellent readability and distinctive character shapes that make coding more pleasant and reduce eye strain.
 
 **Tech Stack:** ![Typography](https://img.shields.io/badge/-Typography-FF6B6B?style=flat) ![Fonts](https://img.shields.io/badge/-Fonts-4CAF50?style=flat) ![Open Source](https://img.shields.io/badge/-Open_Source-FFA500?style=flat)
-
-### 📊 [Microsoft-Cloud-Group-Analyzer](https://github.com/SamPlaysKeys/Microsoft-Cloud-Group-Analyzer)
-For Microsoft Cloud admins who struggle to keep track of where Entra ID groups are used. This opensource script provides instant insights into what services, policies, and configurations a given group or user is scoped to.
-
-**Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 📝 [Obsidian-GitLab-Issues-Plugin](https://github.com/SamPlaysKeys/Obsidian-Gitlab-Issues-Plugin)
 An Obsidian plugin for creating GitLab issues from notes. Streamline your workflow by converting your notes and ideas directly into actionable GitLab issues without leaving your knowledge management environment.
@@ -157,16 +140,16 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 - **🤖 AI Integration** - Incorporating LLMs into automation workflows
 - **🐧 RHEL Implementation** - Red Hat Enterprise Linux deployment and management
 - **🔒 Zero Trust Architecture** - Advanced security frameworks
-- **☁️ OpenShift** - Red Hat's enterprise Kubernetes platform
+- **☁️ OpenShift Virtualization** - Hosting advanced VMs on Red Hat's orchestration platform
 
 ---
 
 ## 🤝 Community & Involvement
 
-- **🎯 Lead Moderator** - r/Nerdio community (Azure Virtual Desktop focus)
-- **✍️ Technical Blogger** - [blog.SamPlaysKeys.com](https://blog.SamPlaysKeys.com)
 - **🎤 Speaker** - Technical presentations and workshops
 - **💃 Dance Instructor** - West Coast Swing social dancing
+- **🎯 Lead Moderator** - r/Nerdio community (Azure Virtual Desktop focus)
+- **✍️ Technical Blogger** - [blog.SamPlaysKeys.com](https://blog.SamPlaysKeys.com)
 
 ---
 
@@ -177,12 +160,6 @@ My PowerShell GUI program for onboarding new computers. Features an intuitive in
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamPlaysKeys&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d1117" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamPlaysKeys&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamPlaysKeys)](https://git.io/streak-stats)
 
 </div>
 
@@ -218,14 +195,7 @@ Feel free to reach out if you'd like to collaborate, have questions about any of
 
 *"Just a Neuro-Spicy boy, doing Neuro-Spicy things."* 🧠✨
 
-**Last updated:** September 2024
+**Last updated:** January 2026
 
 </div>
 
-<!-- 
-Todo for future updates:
-- Add screenshots for favorite tools section
-- Update stats and project descriptions regularly
-- Add new projects as they're created
-- Update experience section with new roles
--->

@@ -21,10 +21,10 @@ I believe in the power of connection and collaboration to drive success – whet
 I'm a results-driven consultant specializing in:
 
 - **🌩️ Multi-Cloud Architecture** - Azure, AWS, GCP environments
+- **🎩 Red Hat Product Deployments** - Enterprise open source implementations
 - **🔧 ServiceNow Solutions** - Problem & incident management workflows  
-- **🎩 Red Hat Enterprise Linux Deployments** - Enterprise open source linux implementation
 - **⚡ PowerShell Automation** - Custom scripts and GUI applications
-- **🖥️ Virtual Desktop Solutions** - Azure Virtual Desktop & Nerdio Manager
+- **🖥️ Virtual Desktop Solutions** - Azure Virtual Desktops & Red Hat Devspaces
 - **📊 Process Optimization** - Streamlining operations and efficiency improvements
 
 ---
@@ -42,8 +42,6 @@ Here are the tools that power my daily workflow and boost my productivity:
 
 The modern evolution of Vim, built for extensibility and usability. My configuration transforms it into a full-featured IDE with LSP support, fuzzy finding, and custom keybindings tailored to my workflow.
 
-*Perfect for: Code editing, configuration management, and terminal-based development*
-
 🔧 [View my NeoVim config](https://github.com/SamPlaysKeys/dotfiles)
 
 </td>
@@ -53,8 +51,6 @@ The modern evolution of Vim, built for extensibility and usability. My configura
 **Terminal File Manager**
 
 A blazing fast terminal file manager written in Rust. Combines vim-like keybindings with modern features like image previews and async operations.
-
-*Perfect for: Large directory navigation, file operations, and terminal workflows*
 
 </td>
 </tr>
@@ -66,8 +62,6 @@ A blazing fast terminal file manager written in Rust. Combines vim-like keybindi
 
 My second brain for connecting ideas, managing projects, and building comprehensive documentation. The graph view and bidirectional linking make knowledge discovery effortless.
 
-*Perfect for: Technical documentation, project planning, and learning*
-
 </td>
 <td width="33%" align="center">
 
@@ -75,8 +69,6 @@ My second brain for connecting ideas, managing projects, and building comprehens
 **The AI-Powered Terminal**
 
 The modern terminal that feels like an IDE. **However,** for my use case, I disable the included AI features. While it is a great tool for AI-driven development, I prefer to use it for its original purpose: as an intuitive modern terminal, written in Rust.
-
-*Perfect for: Complex workflows, debugging, and remote sessions using the "warpified" SSH*
 
 </td>
 </tr>
@@ -154,21 +146,11 @@ While it may not be the most secure method, it's still a really common use case.
 
 ---
 
-## 🌱 Currently Exploring
-
-- **🤖 AI Integration** - Incorporating LLMs into automation workflows
-- **🐧 RHEL Implementation** - Red Hat Enterprise Linux deployment and management
-- **🔒 Zero Trust Architecture** - Advanced security frameworks
-- **☁️ OpenShift Virtualization** - Hosting advanced VMs on Red Hat's orchestration platform
-
----
-
 ## 🤝 Community & Involvement
 
-- **🎤 Speaker** - Technical presentations and workshops
+- **🎤 Speaker** - Technical and Security presentations and workshops
 - **💃 Dance Instructor** - West Coast Swing social dancing
-- **🎯 Lead Moderator** - r/Nerdio community (Azure Virtual Desktop focus)
-- **✍️ Technical Blogger** - [blog.SamPlaysKeys.com](https://blog.SamPlaysKeys.com)
+- **🎯 Lead Moderator** - r/Nerdio community (End User Computing) and Nerdio Valued Professional
 
 ---
 
@@ -177,7 +159,6 @@ While it may not be the most secure method, it's still a really common use case.
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-SamPlaysKeys.com-blue?style=for-the-badge)](https://SamPlaysKeys.com)
-[![Blog](https://img.shields.io/badge/📝_Blog-blog.SamPlaysKeys.com-green?style=for-the-badge)](https://blog.SamPlaysKeys.com)
 
 [![Email](https://img.shields.io/badge/📧_Email-info@samplayskeys.com-red?style=for-the-badge)](mailto:info@samplayskeys.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-SamPlaysKeys-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samplayskeys)
@@ -190,7 +171,7 @@ While it may not be the most secure method, it's still a really common use case.
 I'm always excited to work on interesting projects, especially those involving:
 - **Multifactor Authentication and Zero-Trust Planning**
 - **Cloud architecture and migration projects**
-- **PowerShell automation and tooling**
+- **PowerShell or Ansible automation and tooling**
 - **Community building and technical education**
 - **Process optimization and workflow improvement**
 

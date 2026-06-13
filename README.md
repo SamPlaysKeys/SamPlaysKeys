@@ -104,10 +104,10 @@ An installation-focused collection of the Hack font family - a typeface specific
 
 **Tech Stack:** ![Typography](https://img.shields.io/badge/-Typography-FF6B6B?style=flat) ![Fonts](https://img.shields.io/badge/-Fonts-4CAF50?style=flat) ![Open Source](https://img.shields.io/badge/-Open_Source-FFA500?style=flat)
 
-### 📝 [Obsidian-GitLab-Issues-Plugin](https://github.com/SamPlaysKeys/Obsidian-Gitlab-Issues-Plugin)
-An Obsidian plugin for creating GitLab issues from notes. Streamline your workflow by converting your notes and ideas directly into actionable GitLab issues without leaving your knowledge management environment.
+### 🏠 [Homelab Infrastructure](https://github.com/SamPlaysKeys/Workspace/tree/main/docs/homelab)
+Design, architecture, and operations for a greenfield homelab rebuild — documented end-to-end across five logical environments (Prod, Test, Dev, User, IoT) with GitOps-driven promotion via Komodo, Tailscale overlay networking, UniFi VLANs, comprehensive observability, and full ADR-tracked planning.
 
-**Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+**Tech Stack:** ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Komodo](https://img.shields.io/badge/-Komodo-2496ED?style=flat&logo=docker&logoColor=white) ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale&logoColor=white) ![UniFi](https://img.shields.io/badge/-UniFi-0559C9?style=flat&logo=ui&logoColor=white)
 
 ---
 

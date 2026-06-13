@@ -10,11 +10,10 @@
 
 ## 🚀 About Me
 
-I am a **Neuro-Spicy** technologist who's passionate about encouraging others in security and innovation! I'm currently working as a **Consultant** at **Red Hat**, based in **Raleigh, NC**.
+I am a neuro-spicy technologist who's passionate about encouraging others in security and innovation! I'm currently working as a **Consultant** at **Red Hat**, based in **Raleigh, NC**. I'm also an active member of the **Tailscale Insider** program and a vocal advocate for open source software, Zero-Trust networking, and community-driven development.
 
 I believe in the power of connection and collaboration to drive success – whether I'm architecting cloud solutions, speaking at conferences on open source and security, moderating the r/Nerdio community, or teaching West Coast Swing on the dance floor. My mission is to deliver exceptional solutions while building meaningful relationships and fostering strong communities.
 
-I'm a proud member of the **Tailscale Insider** program and a vocal advocate for open source, Zero-Trust networking, and community-driven development.
 
 ---
 

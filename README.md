@@ -10,9 +10,11 @@
 
 ## 🚀 About Me
 
-I am a **Neuro-Spicy** technologist who's passionate about encouraging others in security and innovation! I'm currently working as an **Associate Consultant** at **Red Hat**, based in **Raleigh, NC**.
+I am a **Neuro-Spicy** technologist who's passionate about encouraging others in security and innovation! I'm currently working as a **Consultant** at **Red Hat**, based in **Raleigh, NC**.
 
-I believe in the power of connection and collaboration to drive success – whether I'm architecting cloud solutions, moderating the r/Nerdio community, or teaching West Coast Swing on the dance floor. My mission is to deliver exceptional solutions while building meaningful relationships and fostering strong communities.
+I believe in the power of connection and collaboration to drive success – whether I'm architecting cloud solutions, speaking at conferences on open source and security, moderating the r/Nerdio community, or teaching West Coast Swing on the dance floor. My mission is to deliver exceptional solutions while building meaningful relationships and fostering strong communities.
+
+I'm a proud member of the **Tailscale Insider** program and a vocal advocate for open source, Zero-Trust networking, and community-driven development.
 
 ---
 
@@ -20,10 +22,11 @@ I believe in the power of connection and collaboration to drive success – whet
 
 I'm a results-driven consultant specializing in:
 
+- **🎩 Red Hat Products** - OpenShift Virtualization, Ansible Automation Platform, enterprise open source
+- **🔧 CI/CD Pipeline Automation** - Streamlining build, test, and deployment workflows
 - **🌩️ Multi-Cloud Architecture** - Azure, AWS, GCP environments
-- **🎩 Red Hat Product Deployments** - Enterprise open source implementations
-- **🔧 ServiceNow Solutions** - Problem & incident management workflows  
-- **⚡ PowerShell Automation** - Custom scripts and GUI applications
+- **🔗 Zero-Trust Networking** - Tailscale, mesh VPNs, secure connectivity
+- **⚡ PowerShell & Ansible Automation** - Custom scripts, playbooks, and GUI applications
 - **🖥️ Virtual Desktop Solutions** - Azure Virtual Desktops & Red Hat Devspaces
 - **📊 Process Optimization** - Streamlining operations and efficiency improvements
 
@@ -73,6 +76,14 @@ The modern terminal that feels like an IDE. **However,** for my use case, I disa
 </td>
 </tr>
 </table>
+
+---
+
+## 🤖 [My AI Workspace](https://github.com/SamPlaysKeys/my-ai-workspace)
+
+My centralized repository for collaborating with AI agents - a curated collection of Ansible playbooks, OpenShift troubleshooting guides, ArgoCD configs, and a meta-development system (Skills, Commands, Agents) that supercharges agentic workflows. Everything is built with **reproducible examples** using generic hostnames and `.example.yml` templates so you can adapt them to your own infrastructure.
+
+**Tech Stack:** ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white) ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat) ![AI](https://img.shields.io/badge/-AI_Agents-7C3AED?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -141,6 +152,7 @@ While it may not be the most secure method, it's still a really common use case.
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
 </div>
 
@@ -148,7 +160,7 @@ While it may not be the most secure method, it's still a really common use case.
 
 ## 🤝 Community & Involvement
 
-- **🎤 Speaker** - Technical and Security presentations and workshops
+- **🎤 Speaker** - Conference talks on Open Source Advocacy, Tailscale, Conditional Access Policies, and security
 - **💃 Dance Instructor** - West Coast Swing social dancing
 - **🎯 Lead Moderator** - r/Nerdio community (End User Computing) and Nerdio Valued Professional
 
@@ -169,11 +181,12 @@ While it may not be the most secure method, it's still a really common use case.
 ### 🤝 Open for Collaboration!
 
 I'm always excited to work on interesting projects, especially those involving:
-- **Multifactor Authentication and Zero-Trust Planning**
+- **Zero-Trust Networking and Tailscale architectures**
+- **Open Source Advocacy and community-driven development**
 - **Cloud architecture and migration projects**
 - **PowerShell or Ansible automation and tooling**
+- **CI/CD pipeline design and automation**
 - **Community building and technical education**
-- **Process optimization and workflow improvement**
 
 Feel free to reach out if you'd like to collaborate, have questions about any of my projects, or just want to connect with a fellow tech enthusiast!
 
@@ -183,7 +196,7 @@ Feel free to reach out if you'd like to collaborate, have questions about any of
 
 *"Just a Neuro-Spicy boy, doing Neuro-Spicy things."* 🧠✨
 
-**Last updated:** January 2026
+**Last updated:** June 2026
 
 </div>
 

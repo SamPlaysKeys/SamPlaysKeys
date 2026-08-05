@@ -78,7 +78,7 @@ The modern terminal that feels like an IDE. **However,** for my use case, I disa
 
 ---
 
-## 🤖 [My AI Workspace](https://github.com/SamPlaysKeys/my-ai-workspace)
+## 🤖 [My AI Workspace](https://github.com/SamPlaysKeys/Workspace)
 
 My centralized repository for collaborating with AI agents - a curated collection of Ansible playbooks, OpenShift troubleshooting guides, ArgoCD configs, and a meta-development system (Skills, Commands, Agents) that supercharges agentic workflows. Everything is built with **reproducible examples** using generic hostnames and `.example.yml` templates so you can adapt them to your own infrastructure.
 

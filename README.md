@@ -17,20 +17,6 @@ I believe in the power of connection and collaboration to drive success – whet
 
 ---
 
-## 💼 What I Do
-
-I'm a results-driven consultant specializing in:
-
-- **🎩 Red Hat Products** - OpenShift Virtualization, Ansible Automation Platform, enterprise open source
-- **🔧 CI/CD Pipeline Automation** - Streamlining build, test, and deployment workflows
-- **🌩️ Multi-Cloud Architecture** - Azure, AWS, GCP environments
-- **🔗 Zero-Trust Networking** - Tailscale, mesh VPNs, secure connectivity
-- **⚡ PowerShell & Ansible Automation** - Custom scripts, playbooks, and GUI applications
-- **🖥️ Virtual Desktop Solutions** - Azure Virtual Desktops & Red Hat Devspaces
-- **📊 Process Optimization** - Streamlining operations and efficiency improvements
-
----
-
 ## 🛠️ My Favorite Tools
 
 Here are the tools that power my daily workflow and boost my productivity:
@@ -123,13 +109,6 @@ While it may not be the most secure method, it's still a really common use case.
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### Operating Systems
-![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ### Languages & Scripting
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)

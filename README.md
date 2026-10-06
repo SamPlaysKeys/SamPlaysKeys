@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
 I am a neuro-spicy technologist who's passionate about encouraging others in security and innovation! I'm currently working as a **Consultant** at **Red Hat**, based in **Raleigh, NC**. I'm also an active member of the **Tailscale Insider** program and a vocal advocate for open source software, Zero-Trust networking, and community-driven development.
@@ -109,28 +108,30 @@ While it may not be the most secure method, it's still a really common use case.
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Languages & Scripting
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ZSH](https://img.shields.io/badge/-ZSH-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### Virtualization & Containers
-![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ProxMox](https://img.shields.io/badge/-ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ProxMox](https://img.shields.io/badge/-ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ### Enterprise Tools
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/-Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Vault](https://img.shields.io/badge/-Vault-00C7B7?style=for-the-badge&logo=vault&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 </div>
 
@@ -148,23 +149,24 @@ While it may not be the most secure method, it's still a really common use case.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-SamPlaysKeys.com-blue?style=for-the-badge)](https://SamPlaysKeys.com)
+[![Blog](https://img.shields.io/badge/📝_Blog-blog.SamPlaysKeys.com-green?style=for-the-badge)](https://blog.SamPlaysKeys.com)
 
 [![Email](https://img.shields.io/badge/📧_Email-info@samplayskeys.com-red?style=for-the-badge)](mailto:info@samplayskeys.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-SamPlaysKeys-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samplayskeys)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@SamPlaysKeys-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamPlaysKeys)
+
+<a href="https://begaydocrimehave.fun/"><img src="./sam.gif" width="88" height="31" alt="SPACE CRIMINALS webring"></a>
 
 </div>
 
 ### 🤝 Open for Collaboration!
 
 I'm always excited to work on interesting projects, especially those involving:
-- **Zero-Trust Networking and Tailscale architectures**
+- **Tailscale architecture and integration**
 - **Open Source Advocacy and community-driven development**
 - **Cloud architecture and migration projects**
-- **PowerShell or Ansible automation and tooling**
-- **CI/CD pipeline design and automation**
-- **Community building and technical education**
+- **DevOps/GitOps pipeline design and automation**
+- **Security and technical education**
 
 Feel free to reach out if you'd like to collaborate, have questions about any of my projects, or just want to connect with a fellow tech enthusiast!
 
@@ -174,7 +176,7 @@ Feel free to reach out if you'd like to collaborate, have questions about any of
 
 *"Just a Neuro-Spicy boy, doing Neuro-Spicy things."* 🧠✨
 
-**Last updated:** June 2026
+**Last updated:** October 2026
 
 </div>
 

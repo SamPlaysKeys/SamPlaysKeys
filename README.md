@@ -174,7 +174,8 @@ Feel free to reach out if you'd like to collaborate, have questions about any of
 
 <div align="center">
 
-*"Just a Neuro-Spicy boy, doing Neuro-Spicy things."* 🧠✨
+*“You keep asking why your work is not enough, and I don’t know how to answer that, because it is enough to exist in the world and marvel at it. You don’t need to justify that, or earn it. You are allowed to just live.”*  
+*~ Becky Chambers, [A Psalm for the Wild-Built](https://www.goodreads.com/work/quotes/63655961)*
 
 **Last updated:** October 2026
 

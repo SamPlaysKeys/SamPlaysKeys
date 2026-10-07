@@ -148,13 +148,13 @@ While it may not be the most secure method, it's still a really common use case.
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/📝_Blog-blog.SamPlaysKeys.com-green?style=for-the-badge)](https://blog.SamPlaysKeys.com)
+[![Blog](https://img.shields.io/badge/📝_Blog-blog.SamPlaysKeys.com-green?style=for-the-badge)](https://blog.SamPlaysKeys.com) <a href="https://blog.SamPlaysKeys.com"><img src="./sam.gif" width="88" height="31" alt="Blog"></a>
 
 [![Email](https://img.shields.io/badge/📧_Email-info@samplayskeys.com-red?style=for-the-badge)](mailto:info@samplayskeys.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-SamPlaysKeys-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samplayskeys)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@SamPlaysKeys-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamPlaysKeys)
 
-<a href="https://begaydocrimehave.fun/"><img src="./sam.gif" width="88" height="31" alt="SPACE CRIMINALS webring"></a>
+[![SPACE CRIMINALS](https://img.shields.io/badge/✨_SPACE_CRIMINALS-webring-purple?style=for-the-badge)](https://begaydocrimehave.fun/) <a href="https://begaydocrimehave.fun/"><img src="./spacecriminals.gif" width="88" height="31" alt="SPACE CRIMINALS webring"></a>
 
 </div>
 

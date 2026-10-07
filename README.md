@@ -123,7 +123,7 @@ While it may not be the most secure method, it's still a really common use case.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![ProxMox](https://img.shields.io/badge/-ProxMox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 ### Enterprise Tools
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
@@ -131,7 +131,6 @@ While it may not be the most secure method, it's still a really common use case.
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-00C7B7?style=for-the-badge&logo=vault&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 </div>
 

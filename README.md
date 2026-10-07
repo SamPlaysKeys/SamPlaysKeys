@@ -154,7 +154,7 @@ While it may not be the most secure method, it's still a really common use case.
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-SamPlaysKeys-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samplayskeys)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-@SamPlaysKeys-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamPlaysKeys)
 
-[![SPACE CRIMINALS](https://img.shields.io/badge/✨_SPACE_CRIMINALS-webring-purple?style=for-the-badge)](https://begaydocrimehave.fun/) <a href="https://begaydocrimehave.fun/"><img src="./spacecriminals.gif" width="88" height="31" alt="SPACE CRIMINALS webring"></a>
+[![Webring](https://img.shields.io/badge/✨_Webring-SPACE_CRIMINALS-purple?style=for-the-badge)](https://begaydocrimehave.fun/) <a href="https://begaydocrimehave.fun/"><img src="./spacecriminals.gif" width="88" height="31" alt="SPACE CRIMINALS webring"></a>
 
 </div>
 
